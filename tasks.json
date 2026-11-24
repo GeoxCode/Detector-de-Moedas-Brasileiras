@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Retomar treinamento detector de valores",
+			"type": "shell",
+			"command": "C:\\Users\\Gisela Caroline\\Desktop\\Code_Legal\\.venv\\Scripts\\python.exe",
+			"args": [
+				"-c",
+				"from ultralytics import YOLO; YOLO(r'C:\\Users\\Gisela Caroline\\Desktop\\Code_Legal\\runs\\detector_valores-3\\weights\\last.pt').train(resume=True)"
+			],
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}

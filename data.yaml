@@ -1,0 +1,7 @@
+path: 'C:\Users\Gisela Caroline\Desktop\Code_Legal\datast_Novo_cinza'
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names: ['10', '100', '25', '5', '50', 'finger']

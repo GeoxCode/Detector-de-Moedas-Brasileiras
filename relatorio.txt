@@ -1,0 +1,19 @@
+RELATORIO DE DETECCAO DE MOEDAS
+SISTEMA YOLO26
+========================================
+Data da analise: 26/10/2026 06:19:28
+Imagem analisada: moedas_teste.jpg
+
+RESUMO DA DETECCAO
+Total de moedas: 9
+Confianca media: 94.0%
+
+VALORES ASSOCIADOS AS MOEDAS
+10-Centavos: 2
+25-Centavos: 2
+5-Centavos: 5
+
+Moedas sem valor identificado: 0
+
+Observacao: o total considera apenas a classe 'Moeda'.
+A associacao de valores usa a posicao das caixas detectadas e pode precisar de ajustes.
